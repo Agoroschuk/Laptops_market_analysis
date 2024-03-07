@@ -1,7 +1,11 @@
-# Laptops_market_analysis
-Valuable laptops properties investigation
+# Анализ рынка ноутбуков 
 
-The investigation is dedicated to the laptop market analysis in India and identification of features that are expected to increase sales. Created using Python, Pandas, Seaborn. 
+Исследование включает в себя поиск корреляции между наиболее востребованными у покупателей характеристик ноутбуков и уровнем продаж. Для построения корреляции использованы такие характеристики, как рейтинг, количество отзывов, бренд, процессор, оперативная память. Для оценки востребованности введен дополнительный признак, являющийся комбинацией числа отзывов числа оценок и рейтинга.
 
-Data from Kaggle:
-https://www.kaggle.com/datasets/rajugc/laptop-selection-dataset
+## Инструменты и библиотеки:
+* Python
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+
